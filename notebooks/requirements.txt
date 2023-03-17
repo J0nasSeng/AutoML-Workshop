@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-optimize
+sklearn-deap
+swig
+smac==2.0.0
+scikit-learn
+torch
+torchvision
+nni
